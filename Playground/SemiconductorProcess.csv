@@ -1,0 +1,159 @@
+No,Name,Operation,Sequence,Name,Operation
+1,CLEAN,Deposition,1,CLEAN,Deposition
+2,TMGOX,Deposition,2,TMGOX,Deposition
+3,TMNOX,Deposition,13,PHPPS,Lithography
+4,TMFOX,Deposition,14,PHGCA,Lithography
+5,TU 11,Deposition,24,IMP,Ion Implant
+6,TU 43,Deposition,15,PHHB,Lithography
+7,TU 72,Deposition,20,PLM7,Etching
+8,TU 73,Deposition,22,PHWET,Etching
+9,TU 74,Deposition,23,PHPLO,Resist Strip
+10,PLM5L,Deposition,22,PHWET,Etching
+11,PLM5U,Deposition,17,PHFI,Lithography
+12,SPUT,Deposition,13,PHPPS,Lithography
+13,PHPPS,Lithography,14,PHGCA,Lithography
+14,PHGCA,Lithography,15,PHHB,Lithography
+15,PHHB,Lithography,23,PHPLO,Resist Strip
+16,PHBI,Lithography,16,PHBI,Lithography
+17,PHFI,Lithography,24,IMP,Ion Implant
+18,PHJPS,Lithography,23,PHPLO,Resist Strip
+19,PLM6,Etching,22,PHWET,Etching
+20,PLM7,Etching,17,PHFI,Lithography
+21,PLM8,Etching,1,CLEAN,Deposition
+22,PHWET,Etching,8,TU 73,Deposition
+23,PHPLO,Resist Strip,4,TMFOX,Deposition
+24,IMP,Ion Implant,22,PHWET,Etching
+,,,22,PHWET,Etching
+,,,1,CLEAN,Deposition
+,,,2,TMGOX,Deposition
+,,,8,TU 73,Deposition
+,,,13,PHPPS,Lithography
+,,,14,PHGCA,Lithography
+,,,18,PHJPS,Lithography
+,,,23,PHPLO,Resist Strip
+,,,15,PHHB,Lithography
+,,,16,PHBI,Lithography
+,,,23,PHPLO,Resist Strip
+,,,18,PHJPS,Lithography
+,,,22,PHWET,Etching
+,,,1,CLEAN,Deposition
+,,,1,CLEAN,Deposition
+,,,13,PHPPS,Lithography
+,,,14,PHGCA,Lithography
+,,,23,PHPLO,Resist Strip
+,,,15,PHHB,Lithography
+,,,16,PHBI,Lithography
+,,,24,IMP,Ion Implant
+,,,23,PHPLO,Resist Strip
+,,,22,PHWET,Etching
+,,,17,PHFI,Lithography
+,,,1,CLEAN,Deposition
+,,,2,TMGOX,Deposition
+,,,8,TU 73,Deposition
+,,,9,TU 74,Deposition
+,,,21,PLM8,Etching
+,,,22,PHWET,Etching
+,,,1,CLEAN,Deposition
+,,,4,TMFOX,Deposition
+,,,22,PHWET,Etching
+,,,22,PHWET,Etching
+,,,1,CLEAN,Deposition
+,,,2,TMGOX,Deposition
+,,,13,PHPPS,Lithography
+,,,14,PHGCA,Lithography
+,,,23,PHPLO,Resist Strip
+,,,15,PHHB,Lithography
+,,,16,PHBI,Lithography
+,,,24,IMP,Ion Implant
+,,,24,IMP,Ion Implant
+,,,23,PHPLO,Resist Strip
+,,,22,PHWET,Etching
+,,,17,PHFI,Lithography
+,,,24,IMP,Ion Implant
+,,,1,CLEAN,Deposition
+,,,2,TMGOX,Deposition
+,,,7,TU 72,Deposition
+,,,1,CLEAN,Deposition
+,,,3,TMNOX,Deposition
+,,,22,PHWET,Etching
+,,,13,PHPPS,Lithography
+,,,15,PHHB,Lithography
+,,,23,PHPLO,Resist Strip
+,,,22,PHWET,Etching
+,,,22,PHWET,Etching
+,,,22,PHWET,Etching
+,,,17,PHFI,Lithography
+,,,13,PHPPS,Lithography
+,,,14,PHGCA,Lithography
+,,,18,PHJPS,Lithography
+,,,23,PHPLO,Resist Strip
+,,,15,PHHB,Lithography
+,,,16,PHBI,Lithography
+,,,20,PLM7,Etching
+,,,23,PHPLO,Resist Strip
+,,,1,CLEAN,Deposition
+,,,17,PHFI,Lithography
+,,,1,CLEAN,Deposition
+,,,1,CLEAN,Deposition
+,,,3,TMNOX,Deposition
+,,,13,PHPPS,Lithography
+,,,14,PHGCA,Lithography
+,,,16,PHBI,Lithography
+,,,24,IMP,Ion Implant
+,,,23,PHPLO,Resist Strip
+,,,22,PHWET,Etching
+,,,17,PHFI,Lithography
+,,,9,TU 74,Deposition
+,,,21,PLM8,Etching
+,,,1,CLEAN,Deposition
+,,,3,TMNOX,Deposition
+,,,13,PHPPS,Lithography
+,,,14,PHGCA,Lithography
+,,,15,PHHB,Lithography
+,,,23,PHPLO,Resist Strip
+,,,15,PHHB,Lithography
+,,,16,PHBI,Lithography
+,,,24,IMP,Ion Implant
+,,,23,PHPLO,Resist Strip
+,,,22,PHWET,Etching
+,,,17,PHFI,Lithography
+,,,1,CLEAN,Deposition
+,,,3,TMNOX,Deposition
+,,,10,PLM5L,Deposition
+,,,22,PHWET,Etching
+,,,12,SPUT,Deposition
+,,,6,TU 43,Deposition
+,,,22,PHWET,Etching
+,,,6,TU 43,Deposition
+,,,1,CLEAN,Deposition
+,,,1,CLEAN,Deposition
+,,,4,TMFOX,Deposition
+,,,10,PLM5L,Deposition
+,,,19,PLM6,Etching
+,,,23,PHPLO,Resist Strip
+,,,1,CLEAN,Deposition
+,,,10,PLM5L,Deposition
+,,,13,PHPPS,Lithography
+,,,14,PHGCA,Lithography
+,,,16,PHBI,Lithography
+,,,21,PLM8,Etching
+,,,12,SPUT,Deposition
+,,,13,PHPPS,Lithography
+,,,14,PHGCA,Lithography
+,,,18,PHJPS,Lithography
+,,,23,PHPLO,Resist Strip
+,,,15,PHHB,Lithography
+,,,15,PHHB,Lithography
+,,,15,PHHB,Lithography
+,,,16,PHBI,Lithography
+,,,19,PLM6,Etching
+,,,23,PHPLO,Resist Strip
+,,,22,PHWET,Etching
+,,,17,PHFI,Lithography
+,,,11,PLM5U,Deposition
+,,,13,PHPPS,Lithography
+,,,14,PHGCA,Lithography
+,,,15,PHHB,Lithography
+,,,21,PLM8,Etching
+,,,23,PHPLO,Resist Strip
+,,,5,TU 11,Deposition
